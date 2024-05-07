@@ -5,3 +5,4 @@ Andranno creati i tag semantici di struttura ed andrà impaginato il contenuto t
 l'immagine del logo fornita nella cartella «assets».
 È consigliato progettare in anticipo la corretta assegnazione dei contenitori, raggruppando i blocchi di testo
 secondo un'analisi dei contenuti.
+
